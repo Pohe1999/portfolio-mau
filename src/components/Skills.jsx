@@ -149,7 +149,7 @@ const Skills = () => {
                     </span>
 
                     <div className='pt-8 text-center'>
-                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/CSS">
                         <button className=' text-[#0a192f] border-b-2 border-[#040c16] '>
                             
                               <p className='flex items-center'>
@@ -176,7 +176,7 @@ const Skills = () => {
                     </span>
 
                     <div className='pt-8 text-center'>
-                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                         <button className=' text-[#0a192f] border-b-2 border-[#040c16] '>
                             
                               <p className='flex items-center'>
@@ -203,7 +203,7 @@ const Skills = () => {
                     </span>
 
                     <div className='pt-8 text-center'>
-                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                        <a target='_blanck' href="https://legacy.reactjs.org/docs/getting-started.html">
                         <button className=' text-[#0a192f] border-b-2 border-[#040c16] '>
                             
                               <p className='flex items-center'>
@@ -230,7 +230,7 @@ const Skills = () => {
                     </span>
 
                     <div className='pt-8 text-center'>
-                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                        <a target='_blanck' href="https://nodejs.org/en/docs">
                         <button className=' text-[#0a192f] border-b-2 border-[#040c16] '>
                             
                               <p className='flex items-center'>
@@ -257,7 +257,7 @@ const Skills = () => {
                     </span>
 
                     <div className='pt-8 text-center'>
-                        <a target='_blanck' href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                        <a target='_blanck' href="https://v2.tailwindcss.com/docs">
                         <button className=' text-[#0a192f] border-b-2 border-[#040c16] '>
                             
                               <p className='flex items-center'>

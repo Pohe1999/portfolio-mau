@@ -95,14 +95,8 @@ const Navbar = () => {
           <li className='w-[160px] h-[55px] flex justify-between items-center ml-[-100px] hover:ml-[-80px] duration-300 background rounded-lg'>
             <a className='flex justify-end w-full text-gray-100 font-semibold' href="https://www.instagram.com/mauriciopgz/" target='_blank'> <FaInstagram size={30} /></a>
           </li>
-          <li className='w-[160px] h-[55px] flex justify-between items-center ml-[-100px] hover:ml-[-80px] duration-300 bg-cyan-500 rounded-lg'>
-            <a className='flex justify-end w-full text-gray-300 font-semibold' href="/" target='_blank'> <HiOutlineMail size={30} /></a>
-          </li>
           <li className='w-[160px] h-[55px] flex justify-between items-center ml-[-100px] hover:ml-[-80px] duration-300 bg-[#333333] rounded-lg'>
             <a className='flex justify-end w-full text-gray-300 font-semibold' href="https://github.com/Pohe1999" target='_blank'> <FaGithub size={30} /></a>
-          </li>
-          <li className='w-[160px] h-[55px] flex justify-between items-center ml-[-100px] hover:ml-[-80px] duration-300 bg-pink-600 mt-72 rounded-xl'>
-            <a className='flex justify-between items-center w-full text-gray-300 font-semibold' href="home">Home <SlHome size={30} /></a>
           </li>
         </ul>
       </div>
